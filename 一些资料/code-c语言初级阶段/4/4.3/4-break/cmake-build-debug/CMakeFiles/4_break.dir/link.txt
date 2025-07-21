@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\4_break.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\4_break.dir/objects.a @CMakeFiles\4_break.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\4_break.dir/objects.a -Wl,--no-whole-archive -o 4_break.exe -Wl,--out-implib,lib4_break.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\4_break.dir\linklibs.rsp

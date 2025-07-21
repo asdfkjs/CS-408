@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/18/18.5/1-2022-42/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+D:/code/19/19.3/2-XOR/cmake-build-debug/CMakeFiles/2_XOR.dir
+D:/code/19/19.3/2-XOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/19/19.3/2-XOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

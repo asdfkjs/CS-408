@@ -1,0 +1,3 @@
+D:/code/6/6.5/1-pointer-malloc/cmake-build-debug/CMakeFiles/1_pointer_malloc.dir
+D:/code/6/6.5/1-pointer-malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/6/6.5/1-pointer-malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

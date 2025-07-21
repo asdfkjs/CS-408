@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/17/17.1/1-sort-homework/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+

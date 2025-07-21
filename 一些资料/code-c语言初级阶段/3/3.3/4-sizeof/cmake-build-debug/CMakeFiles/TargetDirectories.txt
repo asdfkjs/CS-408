@@ -1,0 +1,3 @@
+D:/code/3/3.3/4-sizeof/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/3/3.3/4-sizeof/cmake-build-debug/CMakeFiles/4_sizeof.dir
+D:/code/3/3.3/4-sizeof/cmake-build-debug/CMakeFiles/rebuild_cache.dir

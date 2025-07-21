@@ -1,0 +1,3 @@
+D:/code/2/2.1/symbolic_constants/cmake-build-debug/CMakeFiles/symbolic_constants.dir
+D:/code/2/2.1/symbolic_constants/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/2/2.1/symbolic_constants/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/code/23/23.4/1-fread-fwrite/cmake-build-debug/CMakeFiles/1_fread_fwrite.dir
+D:/code/23/23.4/1-fread-fwrite/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/23/23.4/1-fread-fwrite/cmake-build-debug/CMakeFiles/rebuild_cache.dir

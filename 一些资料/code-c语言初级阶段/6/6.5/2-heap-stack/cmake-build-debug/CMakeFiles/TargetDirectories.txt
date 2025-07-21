@@ -1,0 +1,3 @@
+D:/code/6/6.5/2-heap-stack/cmake-build-debug/CMakeFiles/2_heap_stack.dir
+D:/code/6/6.5/2-heap-stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/6/6.5/2-heap-stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/code/24/24.5/2-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/24/24.5/2-client/cmake-build-debug/CMakeFiles/2_client.dir
+D:/code/24/24.5/2-client/cmake-build-debug/CMakeFiles/edit_cache.dir

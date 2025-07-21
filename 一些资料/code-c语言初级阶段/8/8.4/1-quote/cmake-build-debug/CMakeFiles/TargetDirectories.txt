@@ -1,0 +1,3 @@
+D:/code/8/8.4/1-quote/cmake-build-debug/CMakeFiles/1_quote.dir
+D:/code/8/8.4/1-quote/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/8/8.4/1-quote/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/code/19/19.5/1-Two-dimensional array/cmake-build-debug/CMakeFiles/1_Two_dimensional_array.dir
+D:/code/19/19.5/1-Two-dimensional array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/19/19.5/1-Two-dimensional array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

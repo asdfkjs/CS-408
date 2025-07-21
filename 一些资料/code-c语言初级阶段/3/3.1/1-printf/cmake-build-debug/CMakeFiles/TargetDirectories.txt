@@ -1,0 +1,3 @@
+D:/code/3/3.1/1-printf/cmake-build-debug/CMakeFiles/1_printf.dir
+D:/code/3/3.1/1-printf/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/3/3.1/1-printf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

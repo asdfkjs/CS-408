@@ -1,0 +1,3 @@
+D:/code/23/23.5/1-fseek/cmake-build-debug/CMakeFiles/1_fseek.dir
+D:/code/23/23.5/1-fseek/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/23/23.5/1-fseek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

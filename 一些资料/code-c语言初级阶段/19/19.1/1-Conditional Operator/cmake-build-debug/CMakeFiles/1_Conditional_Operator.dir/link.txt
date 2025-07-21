@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1_Conditional_Operator.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\1_Conditional_Operator.dir/objects.a @CMakeFiles\1_Conditional_Operator.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1_Conditional_Operator.dir/objects.a -Wl,--no-whole-archive -o 1_Conditional_Operator.exe -Wl,--out-implib,lib1_Conditional_Operator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1_Conditional_Operator.dir\linklibs.rsp

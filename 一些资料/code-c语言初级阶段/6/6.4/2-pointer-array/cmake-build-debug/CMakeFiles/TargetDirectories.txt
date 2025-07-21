@@ -1,0 +1,3 @@
+D:/code/6/6.4/2-pointer-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/6/6.4/2-pointer-array/cmake-build-debug/CMakeFiles/2_pointer_array.dir
+D:/code/6/6.4/2-pointer-array/cmake-build-debug/CMakeFiles/edit_cache.dir

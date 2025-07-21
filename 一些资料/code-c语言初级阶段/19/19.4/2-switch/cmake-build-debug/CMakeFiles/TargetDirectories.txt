@@ -1,0 +1,3 @@
+D:/code/19/19.4/2-switch/cmake-build-debug/CMakeFiles/2_switch.dir
+D:/code/19/19.4/2-switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/19/19.4/2-switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

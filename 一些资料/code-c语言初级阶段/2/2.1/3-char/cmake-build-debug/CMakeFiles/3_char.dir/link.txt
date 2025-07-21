@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\3_char.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\3_char.dir/objects.a @CMakeFiles\3_char.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\3_char.dir/objects.a -Wl,--no-whole-archive -o 3_char.exe -Wl,--out-implib,lib3_char.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3_char.dir\linklibs.rsp

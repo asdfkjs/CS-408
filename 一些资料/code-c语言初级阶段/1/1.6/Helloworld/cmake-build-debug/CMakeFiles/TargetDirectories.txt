@@ -1,0 +1,3 @@
+D:/code/1/1.6/Helloworld/cmake-build-debug/CMakeFiles/Helloworld.dir
+D:/code/1/1.6/Helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/1/1.6/Helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

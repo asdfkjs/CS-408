@@ -1,0 +1,3 @@
+D:/code/7/7.1/2-malloc/cmake-build-debug/CMakeFiles/2_malloc.dir
+D:/code/7/7.1/2-malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/7/7.1/2-malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

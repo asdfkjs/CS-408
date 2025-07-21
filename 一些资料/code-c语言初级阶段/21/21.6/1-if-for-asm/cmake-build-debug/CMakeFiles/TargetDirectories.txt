@@ -1,0 +1,3 @@
+D:/code/21/21.6/1-if-for-asm/cmake-build-debug/CMakeFiles/1_if_for_asm.dir
+D:/code/21/21.6/1-if-for-asm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/21/21.6/1-if-for-asm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

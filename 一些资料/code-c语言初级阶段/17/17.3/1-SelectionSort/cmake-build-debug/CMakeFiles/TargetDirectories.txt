@@ -1,0 +1,3 @@
+D:/code/17/17.3/1-SelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/17/17.3/1-SelectionSort/cmake-build-debug/CMakeFiles/1_SelectionSort.dir
+D:/code/17/17.3/1-SelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir

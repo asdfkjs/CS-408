@@ -1,0 +1,3 @@
+D:/code/3/3.1/2-scanf/cmake-build-debug/CMakeFiles/2_scanf.dir
+D:/code/3/3.1/2-scanf/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/3/3.1/2-scanf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

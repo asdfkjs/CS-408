@@ -1,0 +1,3 @@
+D:/code/5/5.4/2-scanf-string/cmake-build-debug/CMakeFiles/2_scanf_string.dir
+D:/code/5/5.4/2-scanf-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/5/5.4/2-scanf-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
